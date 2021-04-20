@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<MainConfig>
+  <World ignore="false">
+    <Height>10</Height>
+    <Width>10</Width>
+  </World>
+  <Log ignore="false"> <!-- ignore true = disable all logging-->
+    <Disable>false</Disable>
+    <Console>
+      <Filters>
+
+      </Filters>
+    </Console>
+  </Log>
+</MainConfig>
